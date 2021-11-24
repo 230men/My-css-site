@@ -1,0 +1,132 @@
+/*************************************TAG SELECT0RS***************************************/
+body {
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+}
+h1 {
+    margin: 0px;
+    color: #66bfbf;
+}
+h2 {
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3 {
+    color: #11999E;
+}
+a {
+    color: #11999E;
+}
+hr {   
+    border-style: dotted none none none;
+    border-color: #adadad;
+    border-width: 7px;
+    height: 10px;
+    width: 100px;
+} 
+/*************************************CLASS SELECT0RS***************************************/
+.div-head {
+    background-color: #EAF6F6;    
+    height: 1000px;
+}
+.div-body {
+    position: absolute;
+    top: 1100px;
+    left: 130px;
+} 
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #34c2db, #2980b9);
+    background-image: -moz-linear-gradient(top, #34c2db, #2980b9);
+    background-image: -ms-linear-gradient(top, #34dbdb, #2980b9);
+    background-image: -o-linear-gradient(top, #34dbdb, #2980b9);
+    background-image: linear-gradient(to bottom, #34dbdb, #2980b9);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #acd2d8, #248e9e);
+    background-image: -moz-linear-gradient(top, #acd2d8, #248e9e);
+    background-image: -ms-linear-gradient(top, #acd2d8, #248e9e);
+    background-image: -o-linear-gradient(top, #acd2d8, #248e9e);
+    background-image: linear-gradient(to bottom, #acd2d8, #248e9e);
+    text-decoration: none;
+}
+.footer-link {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+.footer-link:hover {
+    color: azure;
+}
+/*************************************ID SELECT0RS***************************************/
+#title {
+    position: absolute;
+    top: 50px;
+    left: 475px;
+    font-family: 'Comforter Brush';
+    font-size: 5.625rem;
+
+}
+#the-legend {
+    font-size: 2.5rem;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+#mountain-img {
+    position: absolute;
+    top: 643px;
+    right: 300px;
+}
+#code-img {
+    width: 35%;
+    margin-right: 2rem;
+    float: left;
+}
+#cloud-bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+#cloud-top {
+    position: absolute;
+    left: 900px;
+    top: 400px;
+}
+#harry-img {    
+    width: 200px;
+    border-radius: 50%;
+}
+#controller-img {
+    width: 50%;
+    margin-left: 2rem;
+    float: right;
+}
+#div-footer {
+    position: absolute;
+    top: 2200px;
+    margin: 200px none none none;
+    background-color: #66BFBF;
+    width: 100%;
+    padding-top: 20px;
+}
+#first-hr {
+    margin: 100px auto;
+}
